@@ -1,4 +1,4 @@
-# Matplotlib-Homework-05
+# Pymaceuticals Inc
 USC Bootcamp Matplotlib Pymaceuticals Inc
 
 Pymaceuticals Inc., a burgeoning pharmaceutical company based out of San Diego, CA, specializes in drug-based, anti-cancer pharmaceuticals. In their most recent efforts, they've since begun screening for potential treatments to squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
